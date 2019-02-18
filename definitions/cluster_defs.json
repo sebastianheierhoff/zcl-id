@@ -1310,5 +1310,10 @@
         "attrId":{},
         "cmd":{"cmd0":0},
         "cmdRsp":null
+    },
+    "manuSpecificClusterSalus": {
+        "attrId":{},
+        "cmd":{"cmd0":54},
+        "cmdRsp":{"cmdRsp0":16}
     }
 }

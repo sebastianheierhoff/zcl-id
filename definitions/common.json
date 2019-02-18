@@ -195,7 +195,8 @@
         "haDiagnostic": 2821,
         "lightLink": 4096,
         "manuSpecificCluster": 65535,
-        "manuSpecificClusterAduroSmart": 64716
+        "manuSpecificClusterAduroSmart": 64716,
+        "manuSpecificClusterSalus": 64512
     },
     "dataType": {
         "noData": 0,
